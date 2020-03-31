@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790957532669",
+    "firebase_url": "https://thegreenacademia-27d89.firebaseio.com",
+    "project_id": "thegreenacademia-27d89",
+    "storage_bucket": "thegreenacademia-27d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790957532669:android:039f1d61e2d37ac6e56594",
+        "android_client_info": {
+          "package_name": "com.darahat42.the_green_academia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790957532669-rjoe8t906ukbqeruhn3v89kpc7mvpmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0VNX-3BDBBZaK6QrLxsJ75vs9WIbqis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790957532669-rjoe8t906ukbqeruhn3v89kpc7mvpmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
